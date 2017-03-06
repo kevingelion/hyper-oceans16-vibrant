@@ -1,0 +1,8 @@
+{
+  "name": "hyper-oceans16-vibrant",
+  "version": "0.1.0",
+  "description": "Vibrant version of the hyper-oceans16 theme.",
+  "main": "index.js",
+  "author": "Kevin Murphy",
+  "license": "MIT"
+}
